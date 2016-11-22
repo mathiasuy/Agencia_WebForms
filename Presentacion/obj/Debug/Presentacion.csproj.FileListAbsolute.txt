@@ -1,0 +1,249 @@
+c:\documents and settings\cristian\mis documentos\visual studio 2010\Projects\Capas\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Cristian\Escritorio\Capas\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Cristian\Escritorio\Capas\Presentacion\bin\Presentacion.dll
+C:\Documents and Settings\Cristian\Escritorio\Capas\Presentacion\bin\Presentacion.pdb
+C:\Documents and Settings\Cristian\Escritorio\Capas\Presentacion\bin\CapaLogica.dll
+C:\Documents and Settings\Cristian\Escritorio\Capas\Presentacion\bin\EntidadesCompartidas.dll
+C:\Documents and Settings\Cristian\Escritorio\Capas\Presentacion\bin\ExcepcionesPersonalizadas.dll
+C:\Documents and Settings\Cristian\Escritorio\Capas\Presentacion\bin\CapaLogica.pdb
+C:\Documents and Settings\Cristian\Escritorio\Capas\Presentacion\bin\EntidadesCompartidas.pdb
+C:\Documents and Settings\Cristian\Escritorio\Capas\Presentacion\bin\ExcepcionesPersonalizadas.pdb
+C:\Documents and Settings\Cristian\Escritorio\Capas\Presentacion\obj\Debug\Presentacion.dll
+C:\Documents and Settings\Cristian\Escritorio\Capas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Documents and Settings\Cristian\Escritorio\Capas\Presentacion\bin\Persistencia.dll
+C:\Documents and Settings\Cristian\Escritorio\Capas\Presentacion\bin\Persistencia.pdb
+C:\Documents and Settings\Alumno\Escritorio\Nueva carpeta\obligatorio\Capas\Presentacion\bin\Presentacion.dll
+C:\Documents and Settings\Alumno\Escritorio\Nueva carpeta\obligatorio\Capas\Presentacion\bin\Presentacion.pdb
+C:\Documents and Settings\Alumno\Escritorio\Nueva carpeta\obligatorio\Capas\Presentacion\bin\CapaLogica.dll
+C:\Documents and Settings\Alumno\Escritorio\Nueva carpeta\obligatorio\Capas\Presentacion\bin\EntidadesCompartidas.dll
+C:\Documents and Settings\Alumno\Escritorio\Nueva carpeta\obligatorio\Capas\Presentacion\bin\ExcepcionesPersonalizadas.dll
+C:\Documents and Settings\Alumno\Escritorio\Nueva carpeta\obligatorio\Capas\Presentacion\bin\Persistencia.dll
+C:\Documents and Settings\Alumno\Escritorio\Nueva carpeta\obligatorio\Capas\Presentacion\bin\CapaLogica.pdb
+C:\Documents and Settings\Alumno\Escritorio\Nueva carpeta\obligatorio\Capas\Presentacion\bin\EntidadesCompartidas.pdb
+C:\Documents and Settings\Alumno\Escritorio\Nueva carpeta\obligatorio\Capas\Presentacion\bin\ExcepcionesPersonalizadas.pdb
+C:\Documents and Settings\Alumno\Escritorio\Nueva carpeta\obligatorio\Capas\Presentacion\bin\Persistencia.pdb
+C:\Documents and Settings\Alumno\Escritorio\Nueva carpeta\obligatorio\Capas\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alumno\Escritorio\Nueva carpeta\obligatorio\Capas\Presentacion\obj\Debug\Presentacion.dll
+C:\Documents and Settings\Alumno\Escritorio\Nueva carpeta\obligatorio\Capas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Documents and Settings\Alumno\Escritorio\Copia de Nueva carpeta\obligatorio\Capas\Presentacion\bin\Presentacion.dll
+C:\Documents and Settings\Alumno\Escritorio\Copia de Nueva carpeta\obligatorio\Capas\Presentacion\bin\Presentacion.pdb
+C:\Documents and Settings\Alumno\Escritorio\Copia de Nueva carpeta\obligatorio\Capas\Presentacion\bin\CapaLogica.dll
+C:\Documents and Settings\Alumno\Escritorio\Copia de Nueva carpeta\obligatorio\Capas\Presentacion\bin\EntidadesCompartidas.dll
+C:\Documents and Settings\Alumno\Escritorio\Copia de Nueva carpeta\obligatorio\Capas\Presentacion\bin\ExcepcionesPersonalizadas.dll
+C:\Documents and Settings\Alumno\Escritorio\Copia de Nueva carpeta\obligatorio\Capas\Presentacion\bin\Persistencia.dll
+C:\Documents and Settings\Alumno\Escritorio\Copia de Nueva carpeta\obligatorio\Capas\Presentacion\bin\CapaLogica.pdb
+C:\Documents and Settings\Alumno\Escritorio\Copia de Nueva carpeta\obligatorio\Capas\Presentacion\bin\EntidadesCompartidas.pdb
+C:\Documents and Settings\Alumno\Escritorio\Copia de Nueva carpeta\obligatorio\Capas\Presentacion\bin\ExcepcionesPersonalizadas.pdb
+C:\Documents and Settings\Alumno\Escritorio\Copia de Nueva carpeta\obligatorio\Capas\Presentacion\bin\Persistencia.pdb
+C:\Documents and Settings\Alumno\Escritorio\Copia de Nueva carpeta\obligatorio\Capas\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alumno\Escritorio\Copia de Nueva carpeta\obligatorio\Capas\Presentacion\obj\Debug\Presentacion.dll
+C:\Documents and Settings\Alumno\Escritorio\Copia de Nueva carpeta\obligatorio\Capas\Presentacion\obj\Debug\Presentacion.pdb
+D:\Nueva carpeta\Obligatorio4\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+D:\Nueva carpeta\Obligatorio4\Presentacion\obj\Debug\Presentacion.dll
+D:\Nueva carpeta\Obligatorio4\Presentacion\bin\Presentacion.dll
+D:\Nueva carpeta\Obligatorio4\Presentacion\bin\Presentacion.pdb
+D:\Nueva carpeta\Obligatorio4\Presentacion\bin\EntidadesCompartidas.dll
+D:\Nueva carpeta\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.dll
+D:\Nueva carpeta\Obligatorio4\Presentacion\bin\Logica.dll
+D:\Nueva carpeta\Obligatorio4\Presentacion\bin\Persistencia.dll
+D:\Nueva carpeta\Obligatorio4\Presentacion\bin\EntidadesCompartidas.pdb
+D:\Nueva carpeta\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.pdb
+D:\Nueva carpeta\Obligatorio4\Presentacion\bin\Logica.pdb
+D:\Nueva carpeta\Obligatorio4\Presentacion\bin\Persistencia.pdb
+D:\Nueva carpeta\Obligatorio4\Presentacion\obj\Debug\Presentacion.pdb
+C:\Documents and Settings\Mathias\Escritorio\Obligatorio4\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mathias\Escritorio\Obligatorio4\Presentacion\obj\Debug\Presentacion.dll
+C:\Documents and Settings\Mathias\Escritorio\Obligatorio4\Presentacion\bin\Presentacion.dll
+C:\Documents and Settings\Mathias\Escritorio\Obligatorio4\Presentacion\bin\Presentacion.pdb
+C:\Documents and Settings\Mathias\Escritorio\Obligatorio4\Presentacion\bin\EntidadesCompartidas.dll
+C:\Documents and Settings\Mathias\Escritorio\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.dll
+C:\Documents and Settings\Mathias\Escritorio\Obligatorio4\Presentacion\bin\Logica.dll
+C:\Documents and Settings\Mathias\Escritorio\Obligatorio4\Presentacion\bin\Persistencia.dll
+C:\Documents and Settings\Mathias\Escritorio\Obligatorio4\Presentacion\bin\EntidadesCompartidas.pdb
+C:\Documents and Settings\Mathias\Escritorio\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.pdb
+C:\Documents and Settings\Mathias\Escritorio\Obligatorio4\Presentacion\bin\Logica.pdb
+C:\Documents and Settings\Mathias\Escritorio\Obligatorio4\Presentacion\bin\Persistencia.pdb
+C:\Documents and Settings\Mathias\Escritorio\Obligatorio4\Presentacion\obj\Debug\Presentacion.pdb
+D:\Nueva carpeta\viernes\Obligatorio4\Presentacion\bin\Presentacion.dll
+D:\Nueva carpeta\viernes\Obligatorio4\Presentacion\bin\Presentacion.pdb
+D:\Nueva carpeta\viernes\Obligatorio4\Presentacion\bin\EntidadesCompartidas.dll
+D:\Nueva carpeta\viernes\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.dll
+D:\Nueva carpeta\viernes\Obligatorio4\Presentacion\bin\Logica.dll
+D:\Nueva carpeta\viernes\Obligatorio4\Presentacion\bin\Persistencia.dll
+D:\Nueva carpeta\viernes\Obligatorio4\Presentacion\bin\EntidadesCompartidas.pdb
+D:\Nueva carpeta\viernes\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.pdb
+D:\Nueva carpeta\viernes\Obligatorio4\Presentacion\bin\Logica.pdb
+D:\Nueva carpeta\viernes\Obligatorio4\Presentacion\bin\Persistencia.pdb
+D:\Nueva carpeta\viernes\Obligatorio4\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+D:\Nueva carpeta\viernes\Obligatorio4\Presentacion\obj\Debug\Presentacion.dll
+D:\Nueva carpeta\viernes\Obligatorio4\Presentacion\obj\Debug\Presentacion.pdb
+D:\viernes\Obligatorio4\Presentacion\bin\Presentacion.dll
+D:\viernes\Obligatorio4\Presentacion\bin\Presentacion.pdb
+D:\viernes\Obligatorio4\Presentacion\bin\EntidadesCompartidas.dll
+D:\viernes\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.dll
+D:\viernes\Obligatorio4\Presentacion\bin\Logica.dll
+D:\viernes\Obligatorio4\Presentacion\bin\Persistencia.dll
+D:\viernes\Obligatorio4\Presentacion\bin\EntidadesCompartidas.pdb
+D:\viernes\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.pdb
+D:\viernes\Obligatorio4\Presentacion\bin\Logica.pdb
+D:\viernes\Obligatorio4\Presentacion\bin\Persistencia.pdb
+D:\viernes\Obligatorio4\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+D:\viernes\Obligatorio4\Presentacion\obj\Debug\Presentacion.dll
+D:\viernes\Obligatorio4\Presentacion\obj\Debug\Presentacion.pdb
+D:\Nueva carpeta\lunes\Obligatorio4\Presentacion\bin\Presentacion.dll
+D:\Nueva carpeta\lunes\Obligatorio4\Presentacion\bin\Presentacion.pdb
+D:\Nueva carpeta\lunes\Obligatorio4\Presentacion\bin\EntidadesCompartidas.dll
+D:\Nueva carpeta\lunes\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.dll
+D:\Nueva carpeta\lunes\Obligatorio4\Presentacion\bin\Logica.dll
+D:\Nueva carpeta\lunes\Obligatorio4\Presentacion\bin\Persistencia.dll
+D:\Nueva carpeta\lunes\Obligatorio4\Presentacion\bin\EntidadesCompartidas.pdb
+D:\Nueva carpeta\lunes\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.pdb
+D:\Nueva carpeta\lunes\Obligatorio4\Presentacion\bin\Logica.pdb
+D:\Nueva carpeta\lunes\Obligatorio4\Presentacion\bin\Persistencia.pdb
+D:\Nueva carpeta\lunes\Obligatorio4\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+D:\Nueva carpeta\lunes\Obligatorio4\Presentacion\obj\Debug\Presentacion.dll
+D:\Nueva carpeta\lunes\Obligatorio4\Presentacion\obj\Debug\Presentacion.pdb
+Z:\BROU\Obligatorio4\Presentacion\bin\Presentacion.dll
+Z:\BROU\Obligatorio4\Presentacion\bin\Presentacion.pdb
+Z:\BROU\Obligatorio4\Presentacion\bin\EntidadesCompartidas.dll
+Z:\BROU\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.dll
+Z:\BROU\Obligatorio4\Presentacion\bin\Logica.dll
+Z:\BROU\Obligatorio4\Presentacion\bin\Persistencia.dll
+Z:\BROU\Obligatorio4\Presentacion\bin\EntidadesCompartidas.pdb
+Z:\BROU\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.pdb
+Z:\BROU\Obligatorio4\Presentacion\bin\Logica.pdb
+Z:\BROU\Obligatorio4\Presentacion\bin\Persistencia.pdb
+Z:\BROU\Obligatorio4\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+Z:\BROU\Obligatorio4\Presentacion\obj\Debug\Presentacion.dll
+Z:\BROU\Obligatorio4\Presentacion\obj\Debug\Presentacion.pdb
+D:\Nueva carpeta\Presentacion\bin\Presentacion.dll
+D:\Nueva carpeta\Presentacion\bin\Presentacion.pdb
+D:\Nueva carpeta\Presentacion\bin\EntidadesCompartidas.dll
+D:\Nueva carpeta\Presentacion\bin\ExcepcionesPersonalizadas.dll
+D:\Nueva carpeta\Presentacion\bin\Logica.dll
+D:\Nueva carpeta\Presentacion\bin\Persistencia.dll
+D:\Nueva carpeta\Presentacion\bin\EntidadesCompartidas.pdb
+D:\Nueva carpeta\Presentacion\bin\ExcepcionesPersonalizadas.pdb
+D:\Nueva carpeta\Presentacion\bin\Logica.pdb
+D:\Nueva carpeta\Presentacion\bin\Persistencia.pdb
+D:\Nueva carpeta\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+D:\Nueva carpeta\Presentacion\obj\Debug\Presentacion.dll
+D:\Nueva carpeta\Presentacion\obj\Debug\Presentacion.pdb
+D:\Nueva carpeta\Respaldo2\Obligatorio4\Presentacion\bin\Presentacion.dll
+D:\Nueva carpeta\Respaldo2\Obligatorio4\Presentacion\bin\Presentacion.pdb
+D:\Nueva carpeta\Respaldo2\Obligatorio4\Presentacion\bin\EntidadesCompartidas.dll
+D:\Nueva carpeta\Respaldo2\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.dll
+D:\Nueva carpeta\Respaldo2\Obligatorio4\Presentacion\bin\Logica.dll
+D:\Nueva carpeta\Respaldo2\Obligatorio4\Presentacion\bin\Persistencia.dll
+D:\Nueva carpeta\Respaldo2\Obligatorio4\Presentacion\bin\EntidadesCompartidas.pdb
+D:\Nueva carpeta\Respaldo2\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.pdb
+D:\Nueva carpeta\Respaldo2\Obligatorio4\Presentacion\bin\Logica.pdb
+D:\Nueva carpeta\Respaldo2\Obligatorio4\Presentacion\bin\Persistencia.pdb
+D:\Nueva carpeta\Respaldo2\Obligatorio4\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+D:\Nueva carpeta\Respaldo2\Obligatorio4\Presentacion\obj\Debug\Presentacion.dll
+D:\Nueva carpeta\Respaldo2\Obligatorio4\Presentacion\obj\Debug\Presentacion.pdb
+C:\Documents and Settings\Alumno\Escritorio\Solo faltan los grdView!!!\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\bin\Presentacion.dll
+C:\Documents and Settings\Alumno\Escritorio\Solo faltan los grdView!!!\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\bin\Presentacion.pdb
+C:\Documents and Settings\Alumno\Escritorio\Solo faltan los grdView!!!\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\bin\EntidadesCompartidas.dll
+C:\Documents and Settings\Alumno\Escritorio\Solo faltan los grdView!!!\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.dll
+C:\Documents and Settings\Alumno\Escritorio\Solo faltan los grdView!!!\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\bin\Logica.dll
+C:\Documents and Settings\Alumno\Escritorio\Solo faltan los grdView!!!\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\bin\Persistencia.dll
+C:\Documents and Settings\Alumno\Escritorio\Solo faltan los grdView!!!\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\bin\EntidadesCompartidas.pdb
+C:\Documents and Settings\Alumno\Escritorio\Solo faltan los grdView!!!\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.pdb
+C:\Documents and Settings\Alumno\Escritorio\Solo faltan los grdView!!!\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\bin\Logica.pdb
+C:\Documents and Settings\Alumno\Escritorio\Solo faltan los grdView!!!\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\bin\Persistencia.pdb
+C:\Documents and Settings\Alumno\Escritorio\Solo faltan los grdView!!!\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alumno\Escritorio\Solo faltan los grdView!!!\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\obj\Debug\Presentacion.dll
+C:\Documents and Settings\Alumno\Escritorio\Solo faltan los grdView!!!\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\obj\Debug\Presentacion.pdb
+C:\Documents and Settings\Mathias\Escritorio\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mathias\Escritorio\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\obj\Debug\Presentacion.dll
+C:\Documents and Settings\Mathias\Escritorio\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\bin\Presentacion.dll
+C:\Documents and Settings\Mathias\Escritorio\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\bin\Presentacion.pdb
+C:\Documents and Settings\Mathias\Escritorio\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\bin\EntidadesCompartidas.dll
+C:\Documents and Settings\Mathias\Escritorio\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.dll
+C:\Documents and Settings\Mathias\Escritorio\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\bin\Logica.dll
+C:\Documents and Settings\Mathias\Escritorio\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\bin\Persistencia.dll
+C:\Documents and Settings\Mathias\Escritorio\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\bin\EntidadesCompartidas.pdb
+C:\Documents and Settings\Mathias\Escritorio\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.pdb
+C:\Documents and Settings\Mathias\Escritorio\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\bin\Logica.pdb
+C:\Documents and Settings\Mathias\Escritorio\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\bin\Persistencia.pdb
+C:\Documents and Settings\Mathias\Escritorio\Solo faltan los grdView!!!!\Obligatorio4\Presentacion\obj\Debug\Presentacion.pdb
+D:\Obligatorio4 con sistema ca en blanco\Obligatorio4\Presentacion\bin\Presentacion.dll
+D:\Obligatorio4 con sistema ca en blanco\Obligatorio4\Presentacion\bin\Presentacion.pdb
+D:\Obligatorio4 con sistema ca en blanco\Obligatorio4\Presentacion\bin\EntidadesCompartidas.dll
+D:\Obligatorio4 con sistema ca en blanco\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.dll
+D:\Obligatorio4 con sistema ca en blanco\Obligatorio4\Presentacion\bin\Logica.dll
+D:\Obligatorio4 con sistema ca en blanco\Obligatorio4\Presentacion\bin\Persistencia.dll
+D:\Obligatorio4 con sistema ca en blanco\Obligatorio4\Presentacion\bin\EntidadesCompartidas.pdb
+D:\Obligatorio4 con sistema ca en blanco\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.pdb
+D:\Obligatorio4 con sistema ca en blanco\Obligatorio4\Presentacion\bin\Logica.pdb
+D:\Obligatorio4 con sistema ca en blanco\Obligatorio4\Presentacion\bin\Persistencia.pdb
+D:\Obligatorio4 con sistema ca en blanco\Obligatorio4\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+D:\Obligatorio4 con sistema ca en blanco\Obligatorio4\Presentacion\obj\Debug\Presentacion.dll
+D:\Obligatorio4 con sistema ca en blanco\Obligatorio4\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\alumno1\Desktop\Obligatorio4\Presentacion\bin\Presentacion.dll
+C:\Users\alumno1\Desktop\Obligatorio4\Presentacion\bin\Presentacion.pdb
+C:\Users\alumno1\Desktop\Obligatorio4\Presentacion\bin\EntidadesCompartidas.dll
+C:\Users\alumno1\Desktop\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.dll
+C:\Users\alumno1\Desktop\Obligatorio4\Presentacion\bin\Logica.dll
+C:\Users\alumno1\Desktop\Obligatorio4\Presentacion\bin\Persistencia.dll
+C:\Users\alumno1\Desktop\Obligatorio4\Presentacion\bin\EntidadesCompartidas.pdb
+C:\Users\alumno1\Desktop\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.pdb
+C:\Users\alumno1\Desktop\Obligatorio4\Presentacion\bin\Logica.pdb
+C:\Users\alumno1\Desktop\Obligatorio4\Presentacion\bin\Persistencia.pdb
+C:\Users\alumno1\Desktop\Obligatorio4\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alumno1\Desktop\Obligatorio4\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\alumno1\Desktop\Obligatorio4\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Liquidus\Desktop\Obligatorio4\Presentacion\bin\Presentacion.dll
+C:\Users\Liquidus\Desktop\Obligatorio4\Presentacion\bin\Presentacion.pdb
+C:\Users\Liquidus\Desktop\Obligatorio4\Presentacion\bin\EntidadesCompartidas.dll
+C:\Users\Liquidus\Desktop\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.dll
+C:\Users\Liquidus\Desktop\Obligatorio4\Presentacion\bin\Logica.dll
+C:\Users\Liquidus\Desktop\Obligatorio4\Presentacion\bin\Persistencia.dll
+C:\Users\Liquidus\Desktop\Obligatorio4\Presentacion\bin\EntidadesCompartidas.pdb
+C:\Users\Liquidus\Desktop\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.pdb
+C:\Users\Liquidus\Desktop\Obligatorio4\Presentacion\bin\Logica.pdb
+C:\Users\Liquidus\Desktop\Obligatorio4\Presentacion\bin\Persistencia.pdb
+C:\Users\Liquidus\Desktop\Obligatorio4\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Liquidus\Desktop\Obligatorio4\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\Liquidus\Desktop\Obligatorio4\Presentacion\obj\Debug\Presentacion.pdb
+D:\Nueva carpeta (3)\Obligatorio4\Presentacion\bin\Presentacion.dll
+D:\Nueva carpeta (3)\Obligatorio4\Presentacion\bin\Presentacion.pdb
+D:\Nueva carpeta (3)\Obligatorio4\Presentacion\bin\EntidadesCompartidas.dll
+D:\Nueva carpeta (3)\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.dll
+D:\Nueva carpeta (3)\Obligatorio4\Presentacion\bin\Logica.dll
+D:\Nueva carpeta (3)\Obligatorio4\Presentacion\bin\Persistencia.dll
+D:\Nueva carpeta (3)\Obligatorio4\Presentacion\bin\EntidadesCompartidas.pdb
+D:\Nueva carpeta (3)\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.pdb
+D:\Nueva carpeta (3)\Obligatorio4\Presentacion\bin\Logica.pdb
+D:\Nueva carpeta (3)\Obligatorio4\Presentacion\bin\Persistencia.pdb
+D:\Nueva carpeta (3)\Obligatorio4\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+D:\Nueva carpeta (3)\Obligatorio4\Presentacion\obj\Debug\Presentacion.dll
+D:\Nueva carpeta (3)\Obligatorio4\Presentacion\obj\Debug\Presentacion.pdb
+C:\Documents and Settings\usuario\Escritorio\mathias\Obligatorio4\Presentacion\bin\Presentacion.dll
+C:\Documents and Settings\usuario\Escritorio\mathias\Obligatorio4\Presentacion\bin\Presentacion.pdb
+C:\Documents and Settings\usuario\Escritorio\mathias\Obligatorio4\Presentacion\bin\EntidadesCompartidas.dll
+C:\Documents and Settings\usuario\Escritorio\mathias\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.dll
+C:\Documents and Settings\usuario\Escritorio\mathias\Obligatorio4\Presentacion\bin\Logica.dll
+C:\Documents and Settings\usuario\Escritorio\mathias\Obligatorio4\Presentacion\bin\Persistencia.dll
+C:\Documents and Settings\usuario\Escritorio\mathias\Obligatorio4\Presentacion\bin\EntidadesCompartidas.pdb
+C:\Documents and Settings\usuario\Escritorio\mathias\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.pdb
+C:\Documents and Settings\usuario\Escritorio\mathias\Obligatorio4\Presentacion\bin\Logica.pdb
+C:\Documents and Settings\usuario\Escritorio\mathias\Obligatorio4\Presentacion\bin\Persistencia.pdb
+C:\Documents and Settings\usuario\Escritorio\mathias\Obligatorio4\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\usuario\Escritorio\mathias\Obligatorio4\Presentacion\obj\Debug\Presentacion.dll
+C:\Documents and Settings\usuario\Escritorio\mathias\Obligatorio4\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\user6\Documents\Visual Studio 2015\Projects\Obligatorio4\Presentacion\bin\Presentacion.dll.config
+C:\Users\user6\Documents\Visual Studio 2015\Projects\Obligatorio4\Presentacion\bin\Presentacion.dll
+C:\Users\user6\Documents\Visual Studio 2015\Projects\Obligatorio4\Presentacion\bin\Presentacion.pdb
+C:\Users\user6\Documents\Visual Studio 2015\Projects\Obligatorio4\Presentacion\bin\EntidadesCompartidas.dll
+C:\Users\user6\Documents\Visual Studio 2015\Projects\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.dll
+C:\Users\user6\Documents\Visual Studio 2015\Projects\Obligatorio4\Presentacion\bin\Logica.dll
+C:\Users\user6\Documents\Visual Studio 2015\Projects\Obligatorio4\Presentacion\bin\Persistencia.dll
+C:\Users\user6\Documents\Visual Studio 2015\Projects\Obligatorio4\Presentacion\bin\EntidadesCompartidas.pdb
+C:\Users\user6\Documents\Visual Studio 2015\Projects\Obligatorio4\Presentacion\bin\ExcepcionesPersonalizadas.pdb
+C:\Users\user6\Documents\Visual Studio 2015\Projects\Obligatorio4\Presentacion\bin\Logica.pdb
+C:\Users\user6\Documents\Visual Studio 2015\Projects\Obligatorio4\Presentacion\bin\Persistencia.pdb
+C:\Users\user6\Documents\Visual Studio 2015\Projects\Obligatorio4\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\user6\Documents\Visual Studio 2015\Projects\Obligatorio4\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\user6\Documents\Visual Studio 2015\Projects\Obligatorio4\Presentacion\obj\Debug\Presentacion.pdb

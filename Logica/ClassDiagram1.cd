@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Logica.LogicaArticulo" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAQAAAAgAAQAAACEAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>LogicaArticulo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logica.LogicaEdicion" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAAAAAAAEAAEAAAAAAAAAAABAARAAAAAAAAAAAAAg=</HashCode>
+      <FileName>LogicaEdicion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logica.LogicaFuente" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAACQAAAAAACAAAAAQAQAAQAAAAEgAAAAAACAA=</HashCode>
+      <FileName>LogicaFuente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Persistencia.PersistenciaAgencia" Collapsed="true">
+    <Position X="1.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Persistencia.PersistenciaArticulo" Collapsed="true">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Persistencia.PersistenciaEdicion" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Persistencia.PersistenciaPeriodista" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

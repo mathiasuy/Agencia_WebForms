@@ -1,0 +1,85 @@
+c:\documents and settings\mathias\mis documentos\visual studio 2010\Projects\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+c:\documents and settings\mathias\mis documentos\visual studio 2010\Projects\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+c:\documents and settings\mathias\mis documentos\visual studio 2010\Projects\Obligatorio4\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\mathias\mis documentos\visual studio 2010\Projects\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+c:\documents and settings\mathias\mis documentos\visual studio 2010\Projects\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Documents and Settings\Alumno\Escritorio\Obligatorio4\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alumno\Escritorio\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Documents and Settings\Alumno\Escritorio\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Documents and Settings\Alumno\Escritorio\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Documents and Settings\Alumno\Escritorio\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+D:\Nueva carpeta\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\Nueva carpeta\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\Nueva carpeta\Obligatorio4\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+D:\Nueva carpeta\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\Nueva carpeta\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Documents and Settings\Mathias\Escritorio\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Documents and Settings\Mathias\Escritorio\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Documents and Settings\Mathias\Escritorio\Obligatorio4\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mathias\Escritorio\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Documents and Settings\Mathias\Escritorio\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+D:\Nueva carpeta\viernes\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\Nueva carpeta\viernes\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\Nueva carpeta\viernes\Obligatorio4\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+D:\Nueva carpeta\viernes\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\Nueva carpeta\viernes\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+D:\viernes\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\viernes\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\viernes\Obligatorio4\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+D:\viernes\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\viernes\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+D:\Nueva carpeta\lunes\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\Nueva carpeta\lunes\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\Nueva carpeta\lunes\Obligatorio4\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+D:\Nueva carpeta\lunes\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\Nueva carpeta\lunes\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+Z:\BROU\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+Z:\BROU\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+Z:\BROU\Obligatorio4\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+Z:\BROU\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+Z:\BROU\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+D:\Nueva carpeta\Respaldo2\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\Nueva carpeta\Respaldo2\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\Nueva carpeta\Respaldo2\Obligatorio4\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+D:\Nueva carpeta\Respaldo2\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\Nueva carpeta\Respaldo2\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Documents and Settings\Alumno\Escritorio\Solo faltan los grdView!!!\Solo faltan los grdView!!!!\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Documents and Settings\Alumno\Escritorio\Solo faltan los grdView!!!\Solo faltan los grdView!!!!\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Documents and Settings\Alumno\Escritorio\Solo faltan los grdView!!!\Solo faltan los grdView!!!!\Obligatorio4\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alumno\Escritorio\Solo faltan los grdView!!!\Solo faltan los grdView!!!!\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Documents and Settings\Alumno\Escritorio\Solo faltan los grdView!!!\Solo faltan los grdView!!!!\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Documents and Settings\Mathias\Escritorio\Solo faltan los grdView!!!!\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Documents and Settings\Mathias\Escritorio\Solo faltan los grdView!!!!\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Documents and Settings\Mathias\Escritorio\Solo faltan los grdView!!!!\Obligatorio4\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mathias\Escritorio\Solo faltan los grdView!!!!\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Documents and Settings\Mathias\Escritorio\Solo faltan los grdView!!!!\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+D:\Obligatorio4 con sistema ca en blanco\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\Obligatorio4 con sistema ca en blanco\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\Obligatorio4 con sistema ca en blanco\Obligatorio4\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+D:\Obligatorio4 con sistema ca en blanco\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\Obligatorio4 con sistema ca en blanco\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\alumno1\Desktop\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\alumno1\Desktop\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\alumno1\Desktop\Obligatorio4\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alumno1\Desktop\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\alumno1\Desktop\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Liquidus\Desktop\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Liquidus\Desktop\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Liquidus\Desktop\Obligatorio4\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Liquidus\Desktop\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Liquidus\Desktop\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+D:\Nueva carpeta (3)\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\Nueva carpeta (3)\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\Nueva carpeta (3)\Obligatorio4\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+D:\Nueva carpeta (3)\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\Nueva carpeta (3)\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Documents and Settings\usuario\Escritorio\mathias\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Documents and Settings\usuario\Escritorio\mathias\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Documents and Settings\usuario\Escritorio\mathias\Obligatorio4\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\usuario\Escritorio\mathias\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Documents and Settings\usuario\Escritorio\mathias\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\user6\Documents\Visual Studio 2015\Projects\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\user6\Documents\Visual Studio 2015\Projects\Obligatorio4\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\user6\Documents\Visual Studio 2015\Projects\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
+C:\Users\user6\Documents\Visual Studio 2015\Projects\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\user6\Documents\Visual Studio 2015\Projects\Obligatorio4\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
